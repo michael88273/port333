@@ -28,9 +28,9 @@ const Navbar = () => {
           Dev
         </h1>
         <p className="text-xl sm:text-2xl lg:text-2xl font-extrabold font-grotesk">
-          Far
+          Dai
           <ThemeSwitcher />
-          uk
+          Jon
         </p>
       </Link>
       <div className="hidden md:flex items-center gap-2  font-grotesk uppercase">
@@ -49,7 +49,7 @@ const Navbar = () => {
               </Button>
             ))}
             <li className="hidden lg:inline-block">
-              <Button asChild variant={"outline"}>
+              {/* <Button asChild variant={"outline"}>
                 <Link
                   href="https://docs.google.com/document/d/1EktAf1QQtH6vMP7XUi9i0LLCasbY9IPy7YLwGasTA7k/edit?usp=sharing"
                   className=" border-[1px] border-black"
@@ -59,7 +59,7 @@ const Navbar = () => {
                   View Resume
                   <HiDocumentText size={25} className="ml-2" />
                 </Link>
-              </Button>
+              </Button> */}
             </li>
           </ul>
         </nav>

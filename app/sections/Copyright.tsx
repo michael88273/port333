@@ -3,7 +3,7 @@ import Link from "next/link";
 const Copyright = () => {
   return (
     <div className="  py-6  flex flex-col justify-center items-center font-medium text-base sm:text-lg border-t ">
-      <p className=" text-center">
+      {/* <p className=" text-center">
         Designed by
         <Link
           href={"https://github.com/Farouk-ayo/devfarouk"}
@@ -26,7 +26,7 @@ const Copyright = () => {
         )
       </p>
       <div></div>
-      <p className=" ">&copy; 2024 All rights reserved.</p>
+      <p className=" ">&copy; 2024 All rights reserved.</p> */}
     </div>
   );
 };

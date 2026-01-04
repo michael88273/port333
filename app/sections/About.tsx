@@ -21,7 +21,7 @@ const About = () => {
             className="bg-no-repeat bg-contain"
             style={{ backgroundImage: "url('/patterns/pattern-4.svg')" }}
           >
-            <ul className="px-6 py-6 flex flex-wrap gap-x-6 gap-y-4 sm:grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-2 gap-4 font-idgrotesk">
+            <ul className="px-6 py-6 flex flex-wrap gap-x-6 gap-y-4 sm:grid grid-cols-3 sm:grid-cols-3 lg:grid-cols-3 gap-4 font-idgrotesk">
               {technologies.map((tech, index) => (
                 <li
                   key={index}
@@ -42,22 +42,13 @@ const About = () => {
         </div>
         <div className="w-full lg:w-[50%] order-1 lg:order-2">
           <article className="leading-relaxed text-base md:text-lg">
-            I'm Farouk Mustapha, a Software Developer based in Lagos, Nigeria,
-            with over 3 years of experience building web and mobile apps. I work
-            mostly with JavaScript, TypeScript, React, React Native, Next.js,
-            and Nodejs, turning ideas and designs into clean, functional user
-            interfaces.
+           With over 6 years of hands-on experience, I design and build scalable web and AI powered applications across fintech, healthcare and other regulated domains.
             <br />
             <br />
-            I enjoy collaborating with designers, backend devs, frontend devs,
-            and DevOps to bring products to life. I've worked on projects across
-            startups like Pathpalz, Berrystamp, and JustDoStartUp, and I've
-            learned a lot along the way.
+           My stack includes modern frontend frameworks like React, Next.js, Vue, Angular and Tailwind, with backend systems built using Node.js, Python, Laravel and .Net. I design REST and GraphQL APIs, integrate AI/ML services and build secure data pipelines with strong access control and encryption. I work with SQL and NoSQL databases and deploy cloud native solutions on AWS and GCP using Docker, CI/CD and monitoring tools.
             <br />
             <br />
-            Outside of code, I play chess, watch anime, and constantly look for
-            better ways to solve problems. I genuinely enjoy building things and
-            no matter what happens, I’ll always be an engineer.
+            I focus on delivering high performance, reliable systems optimized for scalability, maintainability and long term production use.
           </article>
         </div>
       </div>

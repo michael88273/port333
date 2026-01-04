@@ -13,7 +13,7 @@ const Header = () => {
         <div className="flex flex-col gap-2">
           <span className=" font-medium text-lg">Hi, I'm</span>
           <h1 className=" font-bold  text-6xl md:text-7xl font-display">
-            Farouk Mustapha
+           Daishon Jones
           </h1>
         </div>
         <div className="relative">
@@ -21,26 +21,18 @@ const Header = () => {
             variant={"secondary"}
             className=" font-display text-bases sm:text-xl"
           >
-            A Software Developer!
+            A Senior Full Stack Developer!
           </Badge>
           <p className="mt-2">
-            I specialize in building responsive Web and Mobile Apps using
-            <span className="font-semibold"> React</span>,{" "}
-            <span className="font-semibold">React Native</span>,{" "}
-            <span className="font-semibold">Next.js</span>,{" "}
-            <span className="font-semibold">JavaScript</span>,{" "}
-            <span className="font-semibold">TypeScript</span>,{" "}
-            <span className="font-semibold">WebGL</span>,{" "}
-            <span className="font-semibold">Node.js</span>,{" "}
-            <span className="font-semibold">Tailwind CSS</span>, and other
-            modern tools — turning designs into delightful user experiences.
+            Hi, my name is Daishon Jones.
+             I am a Senior Full Stack Developer with 6+ years of experience building and scaling web and AI powered applications across fintech, healthcare and regulated environments. Throughout my career, I’ve designed secure APIs, integrated intelligent services and delivered high-performance cloud systems with a strong focus on reliability, compliance and long term maintainability.
           </p>
         </div>
         <Button asChild variant={"outline"}>
           <Link
             target="_blank"
             rel="noopener noreferrer"
-            href={"mailto:your.mustaphafarouk41@gmail.com"}
+            href={"mailto:daishonjones89@yahoo.com"}
             className="flex items-center border-black justify-center gap-3 px-5 py-2  font-bold w-max  border-[1px]  mt-5 "
           >
             Get in Touch
@@ -53,7 +45,7 @@ const Header = () => {
           </Link>
         </Button>
       </section>
-      <section
+      {/* <section
         className=" w-full justify-center md:justify-center relative flex lg:justify-end items-center xl:w-[30%] h-[25rem] bg-center lg:bg-right bg-contain bg-no-repeat lg:w-[30%] group"
         style={{ backgroundImage: "url('/svgs/profile-bg.svg')" }}
         data-aos="zoom-in"
@@ -72,7 +64,7 @@ const Header = () => {
             layout="fill"
           />
         </div>
-      </section>
+      </section> */}
     </header>
   );
 };

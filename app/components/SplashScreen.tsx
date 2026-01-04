@@ -18,7 +18,7 @@ const SplashScreen = ({ finishLoading }: { finishLoading: () => void }) => {
             Dev
           </h1>
           <p className="text-xl sm:text-2xl lg:text-2xl font-extrabold text-center font-grotesk">
-            Farouk
+            Daishon
           </p>
         </motion.div>
       </div>
