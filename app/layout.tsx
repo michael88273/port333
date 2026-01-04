@@ -15,7 +15,7 @@ export const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Farouk Mustapha | Software Engineer Portfolio",
+  title: "Daishon Jones | Senior Full Stakc Developer",
   description:
     "Farouk Mustapha is a Software Engineer specializing in building WebApps with React, Next.js, and TypeScript. Explore my portfolio to see my work, experiences, and skills in creating engaging web experiences.",
   keywords: [
