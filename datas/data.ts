@@ -129,11 +129,11 @@ export const companiesInfo = [
     location: "Remote",
     duration: "2024.01 – 2025.10",
     roles: [
-      "Built an AI powered web platform using Next.js, Vue.js, Node.js and Python ML models, enabling real time analytics and interactive dashboards used by internal and external stakeholders.",
-      "Collaborated with frontend (React), backend (Django, Flask) and DevOps teams to design a scalable full stack architecture, implementing CI/CD pipelines, Dockerized services and AWS/GCP deployments.",
-      "Integrated AI driven features using LangChain, OpenAI and Pinecone, enabling semantic search, document Q&A, and contextual automation across datasets.",
-      "Designed and productionized AI analytics and recommendation systems using TensorFlow and FastAPI, adding monitoring and feedback loops to continuously improve model performance.",
-      "Partnered with global engineering and product teams to deliver secure, compliant, production ready AI solutions, from initial concept through deployment and iteration."
+      "Built an AI powered web platform using Next.js, Vue.js, Node.js and Python models to provide real time analytics and interactive dashboards",
+      "Worked closely with frontend, backend and DevOps teams to design a scalable full stack system using CI/CD pipelines, Docker and cloud deployments on AWS and GCP",
+      "Added AI features with LangChain, OpenAI and Pinecone to support semantic search, document question answering and automated workflows",
+      "Developed AI analytics and recommendation systems with TensorFlow and FastAPI including monitoring to continuously improve performance",
+      "Collaborated with global engineering and product teams to deliver secure, production-ready AI solutions from concept to deployment"
 
     ],
   },
@@ -143,11 +143,11 @@ export const companiesInfo = [
     location: "Remote",
     duration: "2022.02 - 2023.12",
     roles: [
-      "Built and maintained high throughput REST and GraphQL APIs using Node.js and Express, supporting web, mobile and internal dashboard applications with thousands of concurrent users.",
-      "Developed full stack SaaS applications with React, Next.js, Vue.js and Node.js, ensuring tight frontend–backend integration through versioned, well documented APIs.",
-      "Delivered solutions for fintech and healthcare clients, implementing audit logging, role based access control and encryption to meet security and compliance requirements.",
-      "Engineered responsive, SEO optimized UIs with Next.js, leveraging Server Side Rendering (SSR) and Incremental Static Regeneration (ISR) to improve load times and engagement.",
-      "Collaborated closely with designers and product teams, contributing to architectural decisions and improving system reliability and maintainability."
+      "Built and maintained fast APIs using Node.js and Express to support web, mobile and internal applications with many users",
+      "Developed full stack SaaS applications using React, Next.js, Vue.js and Node.js with clean and well documented APIs",
+      "Worked on fintech and healthcare projects, adding security features like access control, encryption and activity logging",
+      "Created responsive and SEO friendly user interfaces with Next.js to improve performance and page load speed",
+      "Worked closely with designers and product teams to make systems more reliable and easier to maintain"
     ],
   },
   {
