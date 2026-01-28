@@ -125,9 +125,9 @@ export const companies = [
 export const companiesInfo = [
   {
     title: "Senior Full Stack Developer",
-    company: "ThreadSwift",
+    company: "Origami Studios",
     location: "Remote",
-    duration: "2024.01 – 2025.10",
+    duration: "2023.02 – 2025.10",
     roles: [
       "Built an AI powered web platform using Next.js, Vue.js, Node.js and Python models to provide real time analytics and interactive dashboards",
       "Worked closely with frontend, backend and DevOps teams to design a scalable full stack system using CI/CD pipelines, Docker and cloud deployments on AWS and GCP",
@@ -141,7 +141,7 @@ export const companiesInfo = [
     title: "Full Stack Developer",
     company: "Binti",
     location: "Remote",
-    duration: "2022.02 - 2023.12",
+    duration: "2020.10 - 2022.12",
     roles: [
       "Built and maintained fast APIs using Node.js and Express to support web, mobile and internal applications with many users",
       "Developed full stack SaaS applications using React, Next.js, Vue.js and Node.js with clean and well documented APIs",
@@ -154,7 +154,7 @@ export const companiesInfo = [
     title: "Web Developer",
     company: "August Ash",
     location: "Rmomte",
-    duration: "2019.11 - 2021.09",
+    duration: "2019.11 - 2020.08",
     roles: [
       "Implemented backend logic for enterprise and client facing applications using PHP/Laravel and C#/.Net",
       "Optimized database queries and refactored legacy codebases, improving application performance and long term maintainability.",
