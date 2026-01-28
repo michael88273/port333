@@ -11,7 +11,7 @@ const Header = () => {
         data-aos="fade-right"
       >
         <div className="flex flex-col gap-2">
-          <span className=" font-medium text-lg">Hi, I'm</span>
+          
           <h1 className=" font-bold  text-6xl md:text-7xl font-display">
            Daishon Jones
           </h1>
@@ -21,11 +21,11 @@ const Header = () => {
             variant={"secondary"}
             className=" font-display text-bases sm:text-xl"
           >
-            A Senior Full Stack Developer!
+            Senior Full Stack Developer!
           </Badge>
           <p className="mt-2">
             Hi, my name is Daishon Jones.
-             I am a Senior Full Stack Developer with 6+ years of experience building and scaling web and AI powered applications across fintech, healthcare and regulated environments. Throughout my career, I’ve designed secure APIs, integrated intelligent services and delivered high-performance cloud systems with a strong focus on reliability, compliance and long term maintainability.
+             I am a Senior Full Stack Developer with 10 years of experience building and scaling web and AI powered applications across fintech, healthcare and regulated environments. Throughout my career, I’ve designed secure APIs, integrated intelligent services and delivered high-performance cloud systems with a strong focus on reliability, compliance and long term maintainability.
           </p>
         </div>
         <Button asChild variant={"outline"}>
