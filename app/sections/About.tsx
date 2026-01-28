@@ -42,7 +42,7 @@ const About = () => {
         </div>
         <div className="w-full lg:w-[50%] order-1 lg:order-2">
           <article className="leading-relaxed text-base md:text-lg">
-           With over 6 years of hands-on experience, I design and build scalable web and AI powered applications across fintech, healthcare and other regulated domains.
+           With 10 years of hands on experience, I design and build scalable web and AI powered applications across fintech, healthcare and other regulated domains.
             <br />
             <br />
            My stack includes modern frontend frameworks like React, Next.js, Vue, Angular and Tailwind, with backend systems built using Node.js, Python, Laravel and .Net. I design REST and GraphQL APIs, integrate AI/ML services and build secure data pipelines with strong access control and encryption. I work with SQL and NoSQL databases and deploy cloud native solutions on AWS and GCP using Docker, CI/CD and monitoring tools.
