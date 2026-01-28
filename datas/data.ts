@@ -144,7 +144,7 @@ export const companiesInfo = [
     duration: "2020.10 - 2022.12",
     roles: [
       "Built and maintained fast APIs using Node.js and Express to support web, mobile and internal applications with many users",
-      "Developed full stack SaaS applications using React, Next.js, Vue.js and Node.js with clean and well documented APIs",
+      "Developed full stack SaaS applications using React, Next.js, Angular, C#/.Net and Node.js with clean and well documented APIs",
       "Worked on fintech and healthcare projects, adding security features like access control, encryption and activity logging",
       "Created responsive and SEO friendly user interfaces with Next.js to improve performance and page load speed",
       "Worked closely with designers and product teams to make systems more reliable and easier to maintain"
