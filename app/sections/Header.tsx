@@ -21,12 +21,10 @@ const Header = () => {
             variant={"secondary"}
             className=" font-display text-bases sm:text-xl"
           >
-            Senior Full Stack Developer!
+            Senior Full Stack Web & Mobile Developer
           </Badge>
           <p className="mt-2">
-            Hi, my name is Daishon Jones.
-             I am a Senior Full Stack Developer with 10 years of experience building and scaling web and AI powered applications across fintech, healthcare and regulated environments. Throughout my career, I’ve designed secure APIs, integrated intelligent services and delivered high-performance cloud systems with a strong focus on reliability, compliance and long term maintainability.
-          </p>
+           Hi, my name is Michael. I am a Technical Lead and Senior Software Engineer with over 10 years of experience building and scaling digital products. Throughout my career, I’ve led teams, delivered complex projects, and helped turn ideas into reliable, high-quality solutions. I focus on creating efficient, user-friendly systems and solving challenging problems in a way that drives real business results.
         </div>
         <Button asChild variant={"outline"}>
           <Link
