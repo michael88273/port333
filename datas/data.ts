@@ -54,14 +54,7 @@ export const technologies = [
     name: "Express",
     iconLink: "https://cdn.simpleicons.org/express",
   },
-    {
-    name: "Php",
-    iconLink: "https://cdn.simpleicons.org/php",
-  }, 
-    {
-    name: "Laravel",
-    iconLink: "https://cdn.simpleicons.org/laravel",
-  },
+
   {
     name: "Python",
     iconLink: "https://cdn.simpleicons.org/python",
