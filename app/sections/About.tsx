@@ -42,13 +42,13 @@ const About = () => {
         </div>
         <div className="w-full lg:w-[50%] order-1 lg:order-2">
           <article className="leading-relaxed text-base md:text-lg">
-           With 10 years of hands on experience, I design and build scalable web and AI powered applications across fintech, healthcare and other regulated domains.
+           With over 10 years of hands-on experience, I design and deliver scalable web, mobile, and cloud-based applications across a variety of industries.
             <br />
             <br />
-           My stack includes modern frontend frameworks like React, Next.js, Vue, Angular and Tailwind, with backend systems built using Node.js, Python, Laravel and .Net. I design REST and GraphQL APIs, integrate AI/ML services and build secure data pipelines with strong access control and encryption. I work with SQL and NoSQL databases and deploy cloud native solutions on AWS and GCP using Docker, CI/CD and monitoring tools.
+           I work across the full stack, using modern frontend technologies like React, Next.js, Angular, Flutter, and React Native, along with backend systems built in Node.js, Python, and C#. I also build and manage cloud infrastructure on AWS and Azure, using tools like Docker and Kubernetes to ensure scalability and reliability.
             <br />
             <br />
-            I focus on delivering high performance, reliable systems optimized for scalability, maintainability and long term production use.
+            I’ve led distributed teams and developed SaaS platforms, IoT systems, and AI-powered solutions, including LLM pipelines, predictive analytics, and real-time data workflows. I focus on building high-performance, reliable systems that simplify complex problems and deliver real business value.
           </article>
         </div>
       </div>
