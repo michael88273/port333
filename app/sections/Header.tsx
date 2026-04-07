@@ -13,7 +13,7 @@ const Header = () => {
         <div className="flex flex-col gap-2">
           
           <h1 className=" font-bold  text-6xl md:text-7xl font-display">
-           Daishon Jones
+           Charles Garrett
           </h1>
         </div>
         <div className="relative">
