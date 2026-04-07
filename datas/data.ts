@@ -258,24 +258,6 @@ export const projects = [
       "PWA",
     ],
   },
-  {
-    name: "Stallion",
-    type: "Featured Project",
-    description:
-      "Stallion Express is a logistics platform for tracking shipments, scheduling deliveries and managing customer interactions. I collaborated closely with team members to build a responsive UI and robust APIs for real time updates and secure data handling. We solved integration challenges by creating a unified data layer for multiple shipping APIs and optimized performance with caching and asynchronous processing, ensuring fast and reliable service.",
-    image: "/3.jpg",
-    liveLink: "https://stallionexpress.ca/",
-    stacks: ["Javascript", "Vue", "Laravel", "MySQL", ],
-  },
- {
-    name: "CVA World",
-    type: "Featured Project",
-    description:
-      "CVA World is a modern, responsive web application developed by a collaborative team to deliver a seamless user experience. Built with Vue.js for a dynamic frontend, Laravel for a secure backend and MySQL for efficient data management. Bootstrap ensures a responsive, mobile friendly layout. Worked closely with team members to design, develop and optimize features, ensuring smooth functionality and performance.",
-    image: "/10.jpg",
-    liveLink: "https://cvaworld.com/",
-    stacks: ["Vue","Laravel", "Bootstrap", "MySQL"],
-  },
 
   {
     name: "WorkBoat",
@@ -316,8 +298,6 @@ export const projects = [
       "Azure DevOps"
     ],
   },
-
- 
 
   {
     name: "F.A.Davis",
